@@ -160,3 +160,109 @@ Memory of course is an important aspect of learning. There are four slots in our
 ### Review
 
 Took a quiz. Received 99% (the one I missed seemed a bit odd, but I'll look into it!)
+
+## Week 2 - Chunking
+
+### Chunking - The Essentials
+
+#### Introduction to Chunking
+
+How can we form chunks?
+How can we use them to improve our understanding of material?
+How they can make us do better on test?
+Illusions of competence in learning -- using ineffective methods of study to fool ourselves into thinking we're learning.
+What study methods are bad? Which are good?
+What is overlearning?
+Make study time more valuable by interleaving -- intelligent variety in studies
+
+#### What is a Chunk?
+
+- Compact packages of info that your mind can easily access.
+- Mental leap that helps you unit bits of information together through meaning. New logical hold makes it easier to remember, easier to fit into large picture of what you're learning.
+- Chunks are pieces of info bound together through meaning or use
+- Mental leaps that unite scattered bits of information
+- Focused practice and repetition - the creation of strong memory traces, helps you to create chunks.
+- Small chunks become larger
+- Once you chunk an idea, you don't need remember all the little underlying details
+- Like getting dressed: You think "I'll get dressed", and it's easy and automatic, yet we're engaging in many different thoughts and actions to complete the idea.
+
+#### How to Form a Chunk - Part 1
+
+Our end goal with information is to form a single chunk out of many smaller ones
+
+- Helps to start out with a worked-through example. Like listening to a song before trying to play it yourself.
+- But this approach on a math problem, for instance, may have us focused too much on _why_ an individual step works, rather than understanding the connection between steps.
+- So it's more like using a roadmap: pay attention to what's around us, and soon we can figure out how to get there on our own (and even new ways).
+
+#### How to Form a Chunk - Part 2
+
+First step: Focus undivided attention on the info you want to chunk.
+Second step: Understand the basic idea you're trying to understand. Comprehending essence of a type of math problem, for instance.
+
+- Just because you see it -- or that you understand it -- doesn't mean you can actually do it. You have to do it yourself!
+
+Third step: Gaining context, so you can see not just how, but when. Go beyond initial problem, see more broadly. Repeated practice.
+
+Learning takes place in two ways:
+
+- Bottom up learning (chunking), where practice and rep can help you both build and strengthen each chunk, easily access it whenever.
+- Top-down big picture process, allows you to see what you're learning and where it fits in.
+
+Both process are vital!
+
+_Context_ is where top-down and bottom-up meet.
+
+Chunking may involve your learning _how_ to use a certain problem solving technique. Context means learning _when_ to use that technique, instead of some other.
+
+Example: Doing a quick page by page **picture walk** of a chapter in a textbook before you begin to study it, may allow you to gain a sense of the big picture. So can listening to a well-organized lecture.
+
+Outlines, flow charts, tables, concept maps, etc give you the context.
+
+Start big, then get into the details.
+
+_Chunks are best formed with:_
+
+1. Focused attention
+2. Understanding
+3. Practice
+
+**Summary**
+
+- There is a bottom-up chunking process where practice and repetition can help you both build and strengthen each chunk, so you can easily gain access to it when needed.
+- There is a top-down "big picture" process that allows you to see where what you are learning fits in.
+- Both bottom-up chunking process and top-down "big picture" processes are vital in gaining mastery over the material.
+- Chunking may involve your learning how to use a certain problem-solving technique.
+
+#### Illusions of Competence
+
+- Importance of Recall
+- Min-testing
+- Value of making mistakes
+
+**Recall**: After reading material, simply look away and see what you can recall from it. Far more effective than using other approaches, such as re-reading or drawing concept maps. Mental retrieval of key ideas is vastly better method.
+
+Glancing at a solution and thinking you know it yourself is one of the most common **illusions of competence** in learning.
+
+Mistakes allow you to make repairs in your thinking flaws. Help correct your thinking.
+
+Recalling material outside of your usual place of study is very helpful! Get used to learning and recalling ideas that weren't formed in the environment you were initially in.
+
+#### Optional Video: How to Integrate a Flashcard Retrieval Practice System Into This Course
+
+#### Retrieval Practice
+
+### Seeing the Bigger Picture
+
+#### What Motivates You?
+
+#### The Value of a Library of Chunks
+
+#### Overlearning, Choking, Einstellung, CHunking, and Interleaving
+
+#### Summary for Module 2
+
+#### Retrieval Practice
+
+### Review
+
+#### Chunking
