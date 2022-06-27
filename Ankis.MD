@@ -70,4 +70,75 @@ Q8. What is "Interleaving Practice"?
 
 **Assignment #03**: Do full Coursera course of "Learning how to Learn".
 
-### Class 02
+### Class 02 - Become a Software Engineer
+
+**Assignment - Read Shay Hoe article**
+
+Q. Can inline elements wrap block level elements? Can block level wrap inline level? What are the exceptions?
+
+A. No, inline elements cannot wrap block-level elements, although HTML was updated to allow anchor tags to do so. Block-level elements can wrap inline elements, as well as other block-level.
+
+Q. What are the two most common types of links? What types of paths do each have?
+
+- Links to _other pages_ of the same website and links to _other websites_
+- Links to other pages of the same websites use relative links (no need to include domain), while links to other websites use absolute paths (include the full domain).
+
+Q. How do we link to a part of the same page?
+
+```html
+<body id="top">
+  <a href="#elementID">Go to Top</a>
+</body>
+```
+
+Q. What is the syntax to link to an email address, when using an anchor tag? What about when including a subject and body?
+
+```html
+<a href="mailto:matthew@gmail.com">Email Me</a>
+```
+
+With subject and body:
+
+```html
+<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you">Email Me</a>
+```
+
+Q. What is the syntax for opening a link in a new window?
+
+- `<a href="https://somesite.com" target="_blank">Go Here</a>`
+- To trigger the action of opening a link in a new window, use the target attribute with a value of \_blank. The target attribute determines exactly where the link will be displayed, and the \_blank value specifies a new window.
+
+Q: When selectors are combined, what direction should they be read in? And what is the farthest right selector called?
+
+- They should be read from right-to-left. The farthest right selector is known as the _key selector_ -- it identifies exactly which element the styles will be applied to. Any selector to the left of this serves as a prequalifier.
+
+Q. In CSS, what are the two form length values can come in? Can you give examples of each?
+
+- Relative lengths, and Absolute lengths.
+- Some examples of absolute lengths include px, in (inch), mm (millimeters)
+- Some examples of relative lengths include: % (percentage), em, rem, ch, vh, vw
+
+Q. When specifying an absolute length of pixels in CSS, how many inches is a pixel equal to?
+
+- A px is 1/9th of an inch. So 96 pixels can fit into an inch.
+- The exact measurement of a pixel, however, may vary slightly between high-density and low-density devices.
+
+Q. What will the width and height properties on an inline element do?
+
+A. Nothing; inline elements do not accept width and height properties or any values tied to them. Block and inline-block elements will, however.
+
+### Class 03 - Review / Hands on Keyboard
+
+### Class 04 - Style With CSS
+
+### Class 05 - CSS Layout
+
+## Class 06 - Relationship, Specificity, Box Model, Responsiveness
+
+## Class 07 - Responsive CSS
+
+## Class 08 - Layouts & Unleash Your Inner Baddie
+
+## Class 09 - Live Networking
+
+## Class 10 - Trough of Sorrow
