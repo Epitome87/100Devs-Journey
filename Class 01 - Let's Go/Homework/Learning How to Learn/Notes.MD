@@ -201,7 +201,7 @@ Second step: Understand the basic idea you're trying to understand. Comprehendin
 
 - Just because you see it -- or that you understand it -- doesn't mean you can actually do it. You have to do it yourself!
 
-Third step: Gaining context, so you can see not just how, but when. Go beyond initial problem, see more broadly. Repeated practice.
+Third step: Practice to help you gain mster and a sense of teh big-picture context, so you can see not just how, but when. Go beyond initial problem, see more broadly. Repeated practice!
 
 Learning takes place in two ways:
 
@@ -255,11 +255,53 @@ Recalling material outside of your usual place of study is very helpful! Get use
 
 #### What Motivates You?
 
+Three neuromodulators were discussed in this video--acetylcholine, dopamine, and serotonin. Each neuromodulator affects or signals for a particular type of behavior.
+
+- Acetylcholine affects focused learning and attention
+- Dopamine signals in relation to unexpected rewards
+- Serotonin affects social life and risk taking behavior
+
 #### The Value of a Library of Chunks
 
-#### Overlearning, Choking, Einstellung, CHunking, and Interleaving
+- Build up a large library of chunks!
+- Chunks can help you understand new concepts; that chunk might be related in surprising ways to similar chunks, in that and different fields. This is called _transfer_ -- a physics chunk may transfer over to a business chunk, for instance.
+- Chunk is a way to compress info much more compactly.
+
+Two ways to figure something out or solve problems:
+
+- Sequential, step by step reasoning. Involves focused mode. Each small step leads delibratrly toward a solution.
+- Holistic intuition. Creative, diffuse mode linking of several seemingly different focused mode thoughts. Most difficult problems are grasped through intuition. Semi-random way of making connections; solutions it provides should be carefully verified using focused mode.
+
+Law of Serendipity
+Lady Luck favors the one who tries. Just focus on whatever section you're studying. Once you put that first problem or concept in your mental library, the second will go in a little more easily, the third more easily still.
+
+#### Overlearning, Choking, Einstellung, Chunking, and Interleaving
+
+**Overlearning**: Continuing to study or practice ater you've mastered what you can in the session. Can help produce an automaticity when executing a serve in tennis. TED Talk guests can practice up to 70 hours for a single 20 minute talk. But be weary of repetitive overlearning in a single session; waste of valuable learning time. Doesn't strengthen long-term memory connections. Use a sebsequent study session is often valuable. But over-repeating something you know well may bring in the illusion of competence that you've mastered the full-range of material, when you've only mastered the easy material.
+
+Focusing on the more difficult material is called **Delibrate Practice**.
+
+**Einstellung**: Your initial simple thought, an idea you already have in mind, or a neural pattern you've already developed may prevent a better idea or solution from being found. Means "mindset". Like installing a roadblock because of the way you initially looked at something. Unlearn your erroneous old ideas or approaches.
+
+Jumping into the water before you learn to swim. Blindly starting homework before relevant lectures, etc. Learn the basic chunks, and how to select and use different chunks. Practice jumping back and forth between problems that require different techniques or strategies -- this is called **Interleaving**. Once you have the basic idea down, start interleaving your practice with problems of different types, or different types of approaches / concepts / procedures.
+
+_How_ to use a particular concept or approach isn't enough. Also need to know _when_ to use it. May make things seem more difficult, but actually learning more deeply. When deeply specializing in only one field, you may become too entrenched in familar ways of thinking and not be able to handle new ideas.
 
 #### Summary for Module 2
+
+- Chunks are pieces of info that are bound together through use and meaning. Can get bigger and more complex, but at the same time they're a single easy to access item that you can fit like a ribbon into the slot on your working memory. Best built with focused attention, understanding of the basic idea, and practice to help deepen patterns and gain big-picture context. Simple recall is one of best ways to help chunking process. Try recalling material in different settings.
+
+- Transfer is the idea that a chunk mastered in one area can help you master chunks in different areas.
+
+- Interleave your learning by practicing your choice of different concepts, approaches and techniques all in one session.
+
+- Chunks are important, but don't build flexibility, which is important in becoming an expert.
+
+- Illusions of competence in learning -- learn to recognize when youre fooling yourself about whether you're actually learning material. Test yourself frequently. Mini-tests. Recall is a form of mini-testing. Minimize highlighting -- fool you into thinking material is going into your brain. Mistakes are good -- allow you to catch illusions of competence. Avoid practice only the easy stuff -- use delibrate practice of what you find most difficult.
+
+- Einstellung is when your initial thought, idea, or neural pattern you've developed prevents a better idea or solution from being found. Keeps you from being too inflexible to find better approaches.
+
+- Law of Serendpity, pick one tiny thing out to learn, and then another -- you'll be surprised at the results!
 
 #### Retrieval Practice
 
