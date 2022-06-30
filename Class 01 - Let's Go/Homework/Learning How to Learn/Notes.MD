@@ -305,6 +305,49 @@ _How_ to use a particular concept or approach isn't enough. Also need to know _w
 
 #### Retrieval Practice
 
+Practice quiz with 6 questions.
+
 ### Review
 
 #### Chunking
+
+Quiz with 12 questions. Scored 100%
+
+## Week 3 - Procrastination and Memory
+
+### Procrastination
+
+#### Introduction to Procrastination and Memory
+
+Building solid chunks in long-term memory takes time; don't want to be putting it off. This week we will learn more on how procrastination happens, and simple ways to tackle it. We'll also learn about some of the best ways to access your brain's most powerful long-term memory systems.
+
+#### Tackling Procrastination
+
+It's easier and more valuable than you think!
+
+Pomodoro is one way to help with procrastination.
+
+Inner zombies -- the routine, habitual responses brain falls into as a result of specific cues. These responses are often focused on making the here-and-now better. We can trick these zombies into fending off procrastination when we need to.
+
+Willpower uses a lot of neuro resources; don't use it for fending off procratination until absolutely necessary.
+
+We procratination on things we feel uncomfortable towards. We get unhappy feeling, then funnel attention onto a more pleasant task, feel better (temporary). But the long-term affects of avoidance can become nasty! It's a bad habit that influences many areas of your life. Fixing it will help unfold many positive changes!
+
+We may devise irrational excuses for avoiding studying. We can become the master of our habit; we make the decisions, not our zombies!
+
+#### Zombies Everywhere
+
+Chunking is related to habit. Habit is an energy-saver for us; allows us to free our mind for other types of activities. You don't have to think in a focused manner about what you're doing while you're performing a habit.
+
+Habits can be good and bad. They can be brief or long.
+
+Habits have four parts:
+
+1. The cue: The trigger that launches you into "zombie mode". Seeing the first item in your to-do list (time to start homework), seeing a text message (time to stop work). Cue by itself is neither harmful or helpful. It's our routine (reaction) that matters.
+2. The routine: Our zombie mode. The routine, habitual response our brain is used to falling into when we receive the cue.
+3. The reward: Every habit develops and continues because it rewards us; immediate feeling of pleasure. Procrastination's reward happens so quickly and easily. But you can find ways to reward good habits to escape procratination.
+4. The belief: Habits have powers because of your belief in them. To change your habit you'll need to change your underlying belief.
+
+### Memory
+
+### Review
