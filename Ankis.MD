@@ -72,7 +72,7 @@ Q8. What is "Interleaving Practice"?
 
 ### Class 02 - Become a Software Engineer
 
-**Assignment - Read Shay Hoe article**
+**Assignment - Read Shay Howe article**
 
 Q. Can inline elements wrap block level elements? Can block level wrap inline level? What are the exceptions?
 
@@ -100,7 +100,9 @@ Q. What is the syntax to link to an email address, when using an anchor tag? Wha
 With subject and body:
 
 ```html
-<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you">Email Me</a>
+<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you"
+  >Email Me</a
+>
 ```
 
 Q. What is the syntax for opening a link in a new window?
@@ -112,7 +114,7 @@ Q: When selectors are combined, what direction should they be read in? And what 
 
 - They should be read from right-to-left. The farthest right selector is known as the _key selector_ -- it identifies exactly which element the styles will be applied to. Any selector to the left of this serves as a prequalifier.
 
-Q. In CSS, what are the two form length values can come in? Can you give examples of each?
+Q. In CSS, what are the two forms length values can come in? Can you give examples of each?
 
 - Relative lengths, and Absolute lengths.
 - Some examples of absolute lengths include px, in (inch), mm (millimeters)
@@ -120,12 +122,47 @@ Q. In CSS, what are the two form length values can come in? Can you give example
 
 Q. When specifying an absolute length of pixels in CSS, how many inches is a pixel equal to?
 
-- A px is 1/9th of an inch. So 96 pixels can fit into an inch.
+- A px is 1/96th of an inch. So 96 pixels can fit into an inch.
 - The exact measurement of a pixel, however, may vary slightly between high-density and low-density devices.
 
 Q. What will the width and height properties on an inline element do?
 
 A. Nothing; inline elements do not accept width and height properties or any values tied to them. Block and inline-block elements will, however.
+
+Q. Explain how margins and paddings work different on inline elements.
+
+A. Inline-level elements are affected a bit differently than block and inline-block elements when it comes to margins and padding. Margins only work horizontally—left and right—on inline-level elements. Padding works on all four sides of inline-level elements; however, the vertical padding—the top and bottom—may bleed into the lines above and below an element.
+
+Q. Before CSS Grid and Flexbox, what were two common ways to do side-by-side layouts?
+
+A. Using floats or inline-block elements.
+
+Q. What are two ways to handling the odd rendering behavior brought on by floats?
+
+A. You could "clear" a float use a simple `clear: both` and hope it's enough for your situation. You could handle the odd behaviors a little more thoroughly by "containing" it using a **clearfix**. To contain floats, the floated elements must reside within a parent element. The parent element will act as a container, leaving the flow of the document completely normal outside of it:
+
+```css
+.group::before,
+.group::after {
+  content: "";
+  display: table;
+}
+.group::after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+```
+
+Q. Sometimes when working with inline-block elements, we may find ourselves running out of room to place them all side by side, yet we're setting their widths to an amount that equals 100%. What's the issue? What are two ways to fix it?
+
+A. We aren't accounting for the single space character between them. To fix it, we can either make sure one inline-block element's opening tag is on the same line as the previous one's closing tag. We can also open an HTML comment directly after an inline-block element's closing tag, and close the HTML comment immediately before the next inline-block element's opening tag.
+
+Q. What are the "box offset" properties? In conjunction with which property-value pairs would you typically need to use these?
+
+A. The box offset properties are left, right, top, bottom. Typically used when working with a position: relative, position: absolute.
 
 ### Class 03 - Review / Hands on Keyboard
 
