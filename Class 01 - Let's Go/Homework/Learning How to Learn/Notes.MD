@@ -546,3 +546,165 @@ Are living parts of your brain that are changing all the time
 ### Review
 
 Quiz with 14 questions. I scored 100%!
+
+## Week 4 - Renaissance Learning and Unlocking Your Potential
+
+### Renaissance Learning and Unlocking Your Potential I
+
+#### How to Become a Better Learner
+
+Some Tips:
+
+- Exercise! Helps new neurons survive. More effective than any drug on market to help you learn better. Benefits all vital organisms, not just brain.
+- Exposure to new environments or ideas can help your neurons grow.
+- Important developmental periods. Practice can repair.
+- There may be a little "zombie" in us until the last part of the cortex matures -- the _prefrontal_ cortex. The prefrontal influences the ability to make decisions, ability to plan, ability to do complex analysis, and human social behavior.
+
+#### Introduction to Renaissance Learning and Unlocking Your Potential
+
+- Learn using metaphor and analogies
+- Work profitably with teammates
+- Perform well on tests
+
+May encounter periods that appear like a step backwards. Just means your mind is wrestling deeply with the material. When you emerge from these temporarily frustrating times, your knowledge base will take a leap forward!
+
+#### Create a Lively Visual Metaphor or Analogy
+
+- Metaphors or analogies is one of the best ways to remember and understand. The more visualize, the better.
+
+Metaphor: A way of realizing that one thing is similar to another.
+
+- Often helpful to pretend that _you_ are the concept you're trying to understand.
+- Useful for getting people out of Einstellung.
+- Stories can also help you retain what you're trying to learn.
+- Metaphors help glue an idea into your mind, make a connection to neural structures that are already there.
+
+#### No Need for Genius Envy - The Imposter Syndrome
+
+Being more intelligent often means a larger working memory, which makes it easier to learn. But it also makes it more difficult for you to be creative, due to Einstellung. A superb working memory can hold its thoughts so tightly that new thoughts can't easily peek through.
+
+Having a somewhat smaller working memory means you can easily generalize your learning into new, more creative combinations.
+
+Deliberate practice on the toughest aspects of the material can help life average brains into the realm of those with more natural gifts.
+
+**Imposter Syndrome** are thoughts of inadequacy - that it's a fluke you happened to do well, and eventually everyone will figure out how incompetent you really are.
+
+#### Change Your Thoughts, Change Your Life
+
+Anyone can change their own brains. Perseverance ("the virtue of the less brilliant") can take you very far.
+Taking responsibility for your own learning is one of the most important things you can do.
+
+(This lecture didn't have too deep of a purpose, in my opinion!)
+
+#### Practice Quiz
+
+### Renaissance Learning and Unlocking Your Potential II
+
+#### The Value of Teamwork
+
+Right brain hemisphere helps us step back and put our work into big picture perspective. Vital for reality checks. Devil's advocate to question the status quo and look for global inconsistencies. Left hemisphere tries to cling tenaciously to the way things were.
+
+Left hemisphere interprets the world for us, and will go to great lengths to keep those interpretations unchanging.
+
+Step back and re-check; allow for more interaction between the two hemispheres to take advantage of the special perspective and abilities of each.
+
+One way the best ways to catch your blind-spots and errors is to brainstorm and work with others who are smartly focused on the topic. They can serve as a larger-scale diffuse mode outside your brain.
+
+#### A Test Checklist
+
+An hour spent taking a test is far more beneficial than an hour of studying. So here is a checklist to see if your test-taking is on target.
+
+"How should I prepare for the test?" Do whatever it takes to be able to answer 'yes' to most of the questions on this list.
+
+- Did you make a serious effort to understand the text?
+- Did you work with classmates on homework problems? Or at least check your solutions with others?
+- Did you attempt to outline every homework problem solution, before working with classmates?
+- Did you participate actively in homework group discussions? Contributing ideas, asking questions.
+- Did you consult with the instructor when you were having trouble?
+- Did you understand ALL of your homework problem solutions when they were handed in?
+- Did you ask in class for explanations of homework problem solutions that weren't clear to you?
+- Did you have a study guide? Carefully go through it before the test and convince yourself you could do everything on it?
+- Did you attempt to outline lots of problem solutions quickly?
+- Did you go over the study guide and problems with classmates and quiz one another?
+- If there was a review sessions, did you attend it and ask questions during it?
+- Did you get a reasonable night's sleep before the test?
+
+#### Hard Start - Jump to Easy
+
+Starting with the easiest questions is counterproductive.
+Difficult problems can scream for the creative powers of the diffuse mode. But to access the diffuse mode, you need to not be focusing on what you so badly want to solve. What to do?
+
+Start with the hard problems, but quickly jump to the easy ones.
+
+First, take a quick look at what the test involves. Then, when you start working the problems, start first with what appears to be the hardest problem. But steel yourself to pull away within the first minute or two if you get stuck or get a sense that you aren't on the right track. This loads the first most difficult problem in mind and then switches attention away from it. This si what allows the diffuse mode to begin its work! Change to something easier as soon as you feel yourself getting bogged down or stuck. When you return to the more difficult problems, you'll find some of the steps more obvious to you. Like a chef; while waiting for steak to fry, you can work on the easy side food. Allows different parents of the brain to work simultaneously.
+
+It's also a good technique for avoiding Einstellung.
+
+#### Final Helpful Hints for Tests
+
+The body puts out chemicals such as cortisol when it's under stress. Can cause sweaty palms, racing heart, a knot in stomach. But it's how you interpret these systems -- the story you tell yourself about why you're stressed -- that makes all the difference. Shift thinking from "this test has made me afraid" to "this test has got me excited to do my best!"; it can improve your performance. Momentarily turn your attention to your breathing. Relax your stomach, place your hand on it, and slowly draw a deep breath. Your hand should move out, even as your whole chest is expanding outward. This counteracts the fight or flight response that fuels anxiety. Practice this daily!
+
+- Try consciously relaxing your tongue
+- Cover up the answers to multiple choice questions and try to recall the information and attempt to answer the question on your own first.
+- Face your fears! Have a "Plan B" for the worst possible contingency, and the fear will begin to subside.
+- "Good worry" vs "Bad worry". Good helps provide motivation and focus. Bad simply wastes energy.
+- The day before a test, have a quick, final look over the materials to brush up on. Focus mode and diffuse mode muscles will be needed the next day, so don't push too hard! Natural reaction to conserve energy and not want to study too hard the day prior.
+- Remember how your mind can trick you into thinking what you've done is correct, even when it isn't. Whenever possible, blink, shift your attention, and double check your answers using a big-picture perspective: "Does this really make sense?" Double-checking answers from back-to-front rather than front-to-back may provide a new helpful perspective.
+
+#### Summary for Module 4
+
+- Metaphors and analogies are one of the best things you can do to remember and understand concepts in many different fields. The more visual, the better.
+- If you change your thoughts, you can truly change your life. Enhance the development of their neuronal circuits by practicing thoughts that use those neurons.
+- Take pride in aiming for success because of the very things that make other people say you can't do it!
+- When you whiz through homework or tests without going back to check their work, you're acting like a person who is refusing to use parts of their brain. Stop to take a mental breath and re-visit what you've done with a bigger picture in mind.
+- Over-confidence in your results can result from using only one mode of thinking. Do some of your studying with friends to help catch where you're thinking has gone astray.
+- Going through your own test-taking checklist can vastly improve your chances of success!
+- Counter-intuitive strategies like the hard start, jump to easy technique can give your brain a chance to reflect on the harder challenges, even as you're focusing on other, more straightforward problems.
+- Body puts out chemicals under stress. How you interpret your body's reaction to those chemicals makes all the difference. Put a positive spin on them!
+- If you're panicked on a test, turn your attention to your breathing.
+- Your mind can trick you into thinking what you've done is correct. Blink, shift attention, and double-check answers using a big-picture perspective, asking yourself "Does this really make sense?"
+- Remember, get plenty of sleep the night before! It can completely negate all other preparation.
+
+#### Wrapup to the Course
+
+You have not truly learned something until you can teach it to others!
+
+Your passions can broaden, change, and grow!
+
+#### Retrieval Practice
+
+Practice quiz with 6 questions. I scored 100%!
+
+### Review - Final Quiz
+
+This final quiz has 27 questions. I scored 97.22% 😐
+
+I missed one of the two potential answers in #16:
+
+```
+16. Select all of the true statements about the purpose and benefits of writing a list of the tasks you want to perform.
+
+As a video mentioned, making a task list makes your tasks easier to remember, WITHOUT having to use much of your valuable working memory.
+```
+
+And one of the two potential answers in #18 (not sure which one):
+
+```
+As Dr. Sejnowski mentioned in one of his videos, new neurons are born in your hippocampus every day.  These neurons can survive and help you remember things if you (check all that apply):
+
+
+
+Read a book about a new subject area
+
+
+Learn a new dance movement
+
+
+Travel to an exotic foreign country and experience new and different ways of doing things.
+
+Correct
+Two experiences that help your neurons to grow and survive are exercise and exposure to new environments or ideas.  Travel to new places is definitely exposure to a new environment!
+
+
+Procrastinate.
+```
