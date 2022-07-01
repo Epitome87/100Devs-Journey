@@ -121,7 +121,7 @@ Often need to repeat what you're trying to work with so it stays in your working
 
 Long term memory is like a storage warehouse. Distributed over a big area. Different kinds of long-term memories stored in different regions of brain. When you first try to put an item of info in long-term memory, have to revisit it a few times in order to find it later. Room for billions of items! So many they can bury each other; difficult to find info you need unless you practice and repeat at least a few times. Store fundamental concepts and techniques that are often involved in whatever you're learning about.
 
-When we encounter something new, often use working brain. To move it into long-term, often takes time and practice. To help, use a technique called **spaced repetitio**n. Repeat what you're trying to retain, but space it out over a number of days. Repeating 20x in one evening won't stick nearly as well as practicing 20x over 20 days. Need to leave time for our wall of knowledge to dry!
+When we encounter something new, often use working brain. To move it into long-term, often takes time and practice. To help, use a technique called **spaced repetition**. Repeat what you're trying to retain, but space it out over a number of days. Repeating 20x in one evening won't stick nearly as well as practicing 20x over 20 days. Need to leave time for our wall of knowledge to dry!
 
 #### The Importance of Sleep in Learning
 
@@ -201,7 +201,7 @@ Second step: Understand the basic idea you're trying to understand. Comprehendin
 
 - Just because you see it -- or that you understand it -- doesn't mean you can actually do it. You have to do it yourself!
 
-Third step: Practice to help you gain mster and a sense of teh big-picture context, so you can see not just how, but when. Go beyond initial problem, see more broadly. Repeated practice!
+Third step: Practice to help you gain mastery and a sense of teh big-picture context, so you can see not just how, but when. Go beyond initial problem, see more broadly. Repeated practice!
 
 Learning takes place in two ways:
 
@@ -264,32 +264,32 @@ Three neuromodulators were discussed in this video--acetylcholine, dopamine, and
 #### The Value of a Library of Chunks
 
 - Build up a large library of chunks!
-- Chunks can help you understand new concepts; that chunk might be related in surprising ways to similar chunks, in that and different fields. This is called _transfer_ -- a physics chunk may transfer over to a business chunk, for instance.
+- Chunks can help you understand new concepts; that chunk might be related in surprising ways to similar chunks, in the same or different fields. This is called _transfer_ -- a physics chunk may transfer over to a business chunk, for instance.
 - Chunk is a way to compress info much more compactly.
 
 Two ways to figure something out or solve problems:
 
-- Sequential, step by step reasoning. Involves focused mode. Each small step leads delibratrly toward a solution.
+- Sequential, step by step reasoning. Involves focused mode. Each small step leads deliberately toward a solution.
 - Holistic intuition. Creative, diffuse mode linking of several seemingly different focused mode thoughts. Most difficult problems are grasped through intuition. Semi-random way of making connections; solutions it provides should be carefully verified using focused mode.
 
-Law of Serendipity
+**Law of Serendipity**
 Lady Luck favors the one who tries. Just focus on whatever section you're studying. Once you put that first problem or concept in your mental library, the second will go in a little more easily, the third more easily still.
 
 #### Overlearning, Choking, Einstellung, Chunking, and Interleaving
 
-**Overlearning**: Continuing to study or practice ater you've mastered what you can in the session. Can help produce an automaticity when executing a serve in tennis. TED Talk guests can practice up to 70 hours for a single 20 minute talk. But be weary of repetitive overlearning in a single session; waste of valuable learning time. Doesn't strengthen long-term memory connections. Use a sebsequent study session is often valuable. But over-repeating something you know well may bring in the illusion of competence that you've mastered the full-range of material, when you've only mastered the easy material.
+**Overlearning**: Continuing to study or practice after you've mastered what you can in the session. Can help produce an automaticity when executing a serve in tennis. TED Talk guests can practice up to 70 hours for a single 20 minute talk. But be weary of repetitive overlearning in a single session; waste of valuable learning time. Doesn't strengthen long-term memory connections. Use a subsequent study session is often valuable. But over-repeating something you know well may bring in the illusion of competence that you've mastered the full-range of material, when you've only mastered the easy material.
 
-Focusing on the more difficult material is called **Delibrate Practice**.
+Focusing on the more difficult material is called **Deliberate Practice**.
 
 **Einstellung**: Your initial simple thought, an idea you already have in mind, or a neural pattern you've already developed may prevent a better idea or solution from being found. Means "mindset". Like installing a roadblock because of the way you initially looked at something. Unlearn your erroneous old ideas or approaches.
 
 Jumping into the water before you learn to swim. Blindly starting homework before relevant lectures, etc. Learn the basic chunks, and how to select and use different chunks. Practice jumping back and forth between problems that require different techniques or strategies -- this is called **Interleaving**. Once you have the basic idea down, start interleaving your practice with problems of different types, or different types of approaches / concepts / procedures.
 
-_How_ to use a particular concept or approach isn't enough. Also need to know _when_ to use it. May make things seem more difficult, but actually learning more deeply. When deeply specializing in only one field, you may become too entrenched in familar ways of thinking and not be able to handle new ideas.
+_How_ to use a particular concept or approach isn't enough. Also need to know _when_ to use it. May make things seem more difficult, but actually learning more deeply. When deeply specializing in only one field, you may become too entrenched in familiar ways of thinking and not be able to handle new ideas.
 
 #### Summary for Module 2
 
-- Chunks are pieces of info that are bound together through use and meaning. Can get bigger and more complex, but at the same time they're a single easy to access item that you can fit like a ribbon into the slot on your working memory. Best built with focused attention, understanding of the basic idea, and practice to help deepen patterns and gain big-picture context. Simple recall is one of best ways to help chunking process. Try recalling material in different settings.
+- Chunks are pieces of information that are bound together through use and meaning. Can get bigger and more complex, but at the same time they're a single easy to access item that you can fit like a ribbon into the slot on your working memory. Best built with focused attention, understanding of the basic idea, and practice to help deepen patterns and gain big-picture context. Simple recall is one of best ways to help chunking process. Try recalling material in different settings.
 
 - Transfer is the idea that a chunk mastered in one area can help you master chunks in different areas.
 
@@ -297,11 +297,11 @@ _How_ to use a particular concept or approach isn't enough. Also need to know _w
 
 - Chunks are important, but don't build flexibility, which is important in becoming an expert.
 
-- Illusions of competence in learning -- learn to recognize when youre fooling yourself about whether you're actually learning material. Test yourself frequently. Mini-tests. Recall is a form of mini-testing. Minimize highlighting -- fool you into thinking material is going into your brain. Mistakes are good -- allow you to catch illusions of competence. Avoid practice only the easy stuff -- use delibrate practice of what you find most difficult.
+- Illusions of competence in learning -- learn to recognize when you're fooling yourself about whether you're actually learning material. Test yourself frequently. Mini-tests. Recall is a form of mini-testing. Minimize highlighting -- fool you into thinking material is going into your brain. Mistakes are good -- allow you to catch illusions of competence. Avoid practicing only the easy stuff -- use deliberate practice of what you find most difficult.
 
 - Einstellung is when your initial thought, idea, or neural pattern you've developed prevents a better idea or solution from being found. Keeps you from being too inflexible to find better approaches.
 
-- Law of Serendpity, pick one tiny thing out to learn, and then another -- you'll be surprised at the results!
+- Law of Serendipity, pick one tiny thing out to learn, and then another -- you'll be surprised at the results!
 
 #### Retrieval Practice
 
@@ -329,9 +329,9 @@ Pomodoro is one way to help with procrastination.
 
 Inner zombies -- the routine, habitual responses brain falls into as a result of specific cues. These responses are often focused on making the here-and-now better. We can trick these zombies into fending off procrastination when we need to.
 
-Willpower uses a lot of neuro resources; don't use it for fending off procratination until absolutely necessary.
+Willpower uses a lot of neuro resources; don't use it for fending off procrastination until absolutely necessary.
 
-We procratination on things we feel uncomfortable towards. We get unhappy feeling, then funnel attention onto a more pleasant task, feel better (temporary). But the long-term affects of avoidance can become nasty! It's a bad habit that influences many areas of your life. Fixing it will help unfold many positive changes!
+We procrastination on things we feel uncomfortable towards. We get unhappy feeling, then funnel attention onto a more pleasant task, feel better (temporary). But the long-term affects of avoidance can become nasty! It's a bad habit that influences many areas of your life. Fixing it will help unfold many positive changes!
 
 We may devise irrational excuses for avoiding studying. We can become the master of our habit; we make the decisions, not our zombies!
 
@@ -345,9 +345,204 @@ Habits have four parts:
 
 1. The cue: The trigger that launches you into "zombie mode". Seeing the first item in your to-do list (time to start homework), seeing a text message (time to stop work). Cue by itself is neither harmful or helpful. It's our routine (reaction) that matters.
 2. The routine: Our zombie mode. The routine, habitual response our brain is used to falling into when we receive the cue.
-3. The reward: Every habit develops and continues because it rewards us; immediate feeling of pleasure. Procrastination's reward happens so quickly and easily. But you can find ways to reward good habits to escape procratination.
+3. The reward: Every habit develops and continues because it rewards us; immediate feeling of pleasure. Procrastination's reward happens so quickly and easily. But you can find ways to reward good habits to escape procrastination.
 4. The belief: Habits have powers because of your belief in them. To change your habit you'll need to change your underlying belief.
+
+#### Surf is Up: Process Versus Product
+
+Effective in learning requires using mental tools and tricks to inspire and motivate yourself.
+
+- Put negative thinking aside: "Quit wasting time and get on with it -- you'll feel better soon!"
+- Learn to focus on _Process_, not _Product_
+
+**Process**
+
+Flow of time and the habits and actions associated with that flow of time. "I'm going to spend 20 minutes working". Small chunks of time you need over days or even weeks to answer the questions or prepare for tests.
+
+**Product**
+
+Outcome. The answers to the questions. The homework assignment you need to finish. It's what triggers the pain that causes you to procrastination.
+
+Focus on building processes, not the product. Processes relate to simple habits, habits that coincidentally allow you to do the unpleasant tasks that need to be done.
+
+Calmly put forth your best effort for a short period -- the process.
+
+Focus on doing a Pomodoro, not on completing a task. Zombie, habitual part of our brain likes processes! It's far easier to enlist a zombie habit to help with the process rather than the product. Allows you to back away from judging yourself -- instead allow yourself to relax into the flow of the work.
+
+Train yourself to let distractions float by. Helps to set yourself up in an environment that minimizes distractions to begin with; a quiet space, noise-canceling headphones can be helpful.
+
+#### Harnessing Your Zombies to Help You
+
+Zombies can help us avoid procrastination while minimizing the need for willpower.
+
+**The trick to overriding a habit is to look to change your reaction to a cue. The only place you need to apply willpower is to change your reaction to the cue.** It helps to go back through the four components of habit and re-analyze them through the perspective of procrastination:
+
+1. Recognizes what launches you into your zombie procrastination mode (the cue). Cues typically fall into 4 categories:
+   - Location
+   - Time
+   - How you feel
+   - Reactions
+
+- Shut off cell phone
+- Keep yourself away from Internet
+
+2. The routine. This is the reaction point where you must actively focus on rewiring your old habit. The key to rewiring is to have a _plan_! Developing a new ritual can be helpful. Leave phone in car when heading into class. Settle into a quiet place. Sit in a favorite chair. Adjust the plan when necessary.
+3. The reward. Why are you procrastinating? Can you substitute an emotional payoff -- a feeling of pride, a sense of satisfaction? Can you win a small internal bet or contest about something you've turned into a personal game? Allow yourself to indulge in a latte or visit a favorite website? Reward self with an evening of mindless television without guilt? Bigger reward for bigger achievement. Helps to add new reward if you want to overcome your previous cravings for procrastination. Only once your brain starts expecting that reward will the important rewiring take place that will allow you to create new habits. Setting a reward for a specific time may give a solid mini-deadline that can help spur work.
+4. The belief. The belief that you can change your procrastination habit will be tremendously helpful. Hang out with people with the can-do outlook that you want to develop.
+
+#### Juggling Life and Learning
+
+- Weekly list of key tasks
+- Daily "To-Do" list
+
+Once a week write a brief weekly list of key tasks in a planner journal. Each day on another page write a list of the tasks that you can reasonably work on or accomplish. Try to write the daily task on the evening before. Helps your subconscious to grapple with the tasks on the list so you can figure out how to accomplish them. Writing the list before you sleep enlists your zombies to help you accomplish the items on the list the next day. If you don't write your tasks down in a list, they can lurk at the edge of the four or so slots in your working memory, taking up valuable mental real estate.
+
+Mixing other tasks up with your learning seems to make everything more enjoyable and keeps you from prolonged and unhealthy bouts of sitting. Break your to-do tasks up with diffuse mode tasks that you would normally not enjoy (like doing dishes); since they are now positioned in a way that gives you a break from focused-mode thinking, you'll find them more enjoyable!
+
+Make notes about what works and what doesn't.
+
+**Planning your quitting time is as important as planning your working time!**
+
+Breaks are important, as is leisure time!
+
+"Eat your frogs first in the morning". Try to work on the most important and most disliked tasks first -- for at least one Pomodoro as soon as you wake up.
+
+#### Summing Up Procrastination
+
+Learning well provides bit by bit, day by day building of solid neural scaffolds. Avoiding procrastination is thus important.
+
+1. Keep a planner journal
+   - Track when you reach your goals and observe what does and doesn't work
+2. Commit yourself to certain routines and tasks each day
+   - Write your tasks out the night before so your brain has time to dwell on goals and help ensure success
+   - Arrange work into series of small challenges
+   - Ensure you and your zombies get lots of rewards
+   - Take time to savior feelings happiness and triumph (and brain can temporarily change modes)
+3. Delay rewards until you finish the task
+4. Watch for procrastination cues
+   - Put yourself in new surroundings with fewer potential cues
+5. Gain trust in your new system
+   - Work hard during times of focused concentration
+   - Able to relax without feelings of guilt or worry
+6. Have backup plans for when you still procrastinate
+7. Eat your frogs first, every day!
+
+#### Retrieval Practice
+
+A Practice Quiz with 6 questions. I scored 100%!
 
 ### Memory
 
+#### Diving Deeper Into Memory
+
+Tap into naturally super-sized visual, spacial memorization abilities. "Where things are" and "how they look" memory system -- visual memory system.
+Create vivid images to remember a math formula, for instance. The funnier and more evocative the images, the better.
+
+Images connect directly to your right brain's visual spacial centers. Help you encapsulate the seemingly humdrum and hard to remember concept by tapping into visual areas with enhanced memory abilities.
+
+Focusing your attention brings something into your temporary working memory. But for that something to move from working to long-term memory, two things should happen:
+
+1. The idea should be memorable. The more memorable, the easier it will be to recall.
+2. Must be repeated (with spaced repetition, not cramming), or the metabolic vampires will suck away the neural pattern related to that memory before it can strengthen and solidify!
+
+Handwriting can be useful for helping you strengthen what you're trying to learn.
+
+You'll want to say the word and its meaning aloud to start setting auditory hooks to the material.
+
+#### What Is Long Term Memory
+
+Hippocampus is important part of a brain system for learning and memory of facts and events. Without it, or after severe damage to it, it's not possible to store new memories (memory consolidation).
+
+Memories are not fixed; they are living, breathing and changing all the time. Whenever you recall a memory, it changes (process called reconsolidation). It's possible to plant false memories.
+
+Astrocytes are brain cells that:
+
+- Provide nutrients to neurons
+- Maintain extracellular (outside the cell) ion balance
+- Are involved in repair after injury
+- Have a role in learning
+
+(Pretty technical section -- probably don't need notes!)
+
+#### Create Meaningful Groups and the Memory Palace Technique
+
+Another key to memorization is to create meaningful groups to simplify the material. Four plants to help ward off vampire? Garlic, Rose, Hawthorn, Mustard. Take the first letter of each word (GHRM), this looks like the word "Graham", so maybe we can remember these four plants by picturing a graham cracker.
+
+Much easier to remember numbers by associating them with memorable events.
+
+Memorable sentences. First letter of each word in a sentence is also the first letter of each word in a list that needs to be memorized: "Some lovers try positions that they can't handle" to memorize the name of the carpal bones of the hand, for instance. "Old people from Texas eat spider" for the cranial bones.
+
+**Memory Palace Technique**
+
+Powerful way of grouping things you want to remember.
+
+- Call to mind a familiar place (like layout of your house) and using it as a visual notepad where you can deposit the concept images that you want to remember.
+- Useful for remembering unrelated items, like grocery list. Imagine a bottle of milk inside your front door, the bread plopped on teh couch, an egg spilling off the coffee table. Imagine you're walking through a place you know very well and encountering these shockingly memorable images of what you want to remember.
+
+It takes time to conjure up a solid mental image. With practice and repetition, the memory palace technique becomes easier and stronger.
+
+Can also strengthen your creativity! Speed up acquisition of both chunks and big-picture templates helping transform novices to semi-experts much more quicker. Expand working memory with easy access to long-term memory. The memory process itself becomes an exercise in creativity.
+
+#### Summing Up Memory
+
+Key ideas about memory:
+
+- Two main memory systems involved in ability to chunk concepts: 1. Long-term memory (storage warehouse, practice and repeat over time in order to store items here). 2. Working memory (poor blackboard that quickly fades, only hold about 4 items in working memory). When you master a technique, it compacts the ideas so they occupy less working memory space. This frees mental thinking space so it can more easily grapple with other ideas.
+- We have outstanding visual and spacial memory systems. Tapping into these systems can help improve memory.
+- Tap into visual memory system by making very memorable visual images representing one key item you want to remember. Try to see, feel, hear, smell something you're trying to remember. The funnier and more evocative the images, the better. Repetition over several days is helpful.
+- Create meaningful groups that simplify the material. Try associating numbers with years or systems you're familiar with. Use memorable sentences.
+- The memory palace technique, placing memorable images in a scene that's familiar with you. Dip into strength of visual memory system. Powerful way of grouping things. Make meaningful groups and abbreviations to simplify and chunk what you're trying to learn.
+- Memorizing material you understand can help you internalize the material in a profound way.
+
+##### Practice Quiz: Retrieval Practice
+
+Practice Quiz with 6 questions. I scored 100%!
+
+```
+Question 1
+Which of the following are good study habits to develop?
+
+Interleave your learning by alternating your practice with different types of problems so you clearly see the differences between problem-solving techniques.
+
+Start early to allow plenty of time to master the subject material and to give yourself extra time on harder concepts.
+
+Question 2
+Choose all of the true statements about good working/studying methods, procrastination and how to overcome procrastination.
+
+Keep a planner journal and keep track of the methods and techniques that work best for you.
+
+Making a task list is best done at night, right before you go to sleep. Research shows that this helps your zombies (subconscious processes) to process the list overnight, making it easier to work on your tasks the next day.
+
+Pay attention for procrastination cues and remove yourself from environments that contain many distractions and procrastination cues.
+
+Question 3
+Select the following true statements, in accordance with what you've learned from the videos, about memory.
+
+To begin tapping into your visual memory system, try making a very memorable visual image representing one key item you want to remember.
+
+Handwriting appears to help you to more deeply encode (that is, convert into neural memory structures) what you are trying to learn.
+
+Creating flashcards is a useful technique to help you remember.  By increasing your spacing as you become more certain of mastery, you will lock the material more firmly into place
+
+Question 4
+The memory palace technique is useful for helping you to move information into your long-term memory. Which of these statements about the technique are true?
+
+It allows you to tap into your visual and spatial memory abilities
+
+It can help you create a meaningful (if sometimes memorably strange!) group from otherwise unrelated items
+
+Question 5
+Long term memories for facts and events:
+
+
+Are subject to modification by a process called "reconsolidation."
+
+Correct
+Whenever you reactivate a memory, the memory changes, a process called reconsolidation.  It is even possible to implant false memories, indistinguishable from old ones, by suggestion and imagination, especially in children who have vivid imaginations.
+
+Are living parts of your brain that are changing all the time
+```
+
 ### Review
+
+Quiz with 14 questions. I scored 100%!
