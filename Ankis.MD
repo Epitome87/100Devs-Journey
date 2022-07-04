@@ -100,9 +100,7 @@ Q. What is the syntax to link to an email address, when using an anchor tag? Wha
 With subject and body:
 
 ```html
-<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you"
-  >Email Me</a
->
+<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you">Email Me</a>
 ```
 
 Q. What is the syntax for opening a link in a new window?
@@ -144,7 +142,7 @@ A. You could "clear" a float use a simple `clear: both` and hope it's enough for
 ```css
 .group::before,
 .group::after {
-  content: "";
+  content: '';
   display: table;
 }
 .group::after {
@@ -179,3 +177,167 @@ A. The box offset properties are left, right, top, bottom. Typically used when w
 ## Class 09 - Live Networking
 
 ## Class 10 - Trough of Sorrow
+
+## Class 16
+
+### Homework: The JS Way
+
+Q. A \_\_ is a piece of information used in a computer program.
+
+A. Value.
+
+**Variables**
+
+Q. \_\_ a variable means the computer reserves memory in which to store the variable.
+
+A. Declaring.
+
+Q. What is the value of a variable that has been declared but not assigned a value?
+
+A. undefined.
+
+Q. \_\_ a variable means giving it a value.
+
+A. Assigning.
+
+Q. Values exist in different forms, called **\_. What do ** determine?
+
+A. Type. A value's type determines its role and actions available to the variable.
+
+Q. Each instruction inside a program is called a **. They usually end in a **.
+
+A. Statement, semi-colon.
+
+Q. A ** is an information storage area. Every ** has a **, a **, and a \_\_.
+
+A. Variable. Variable, name, type, value.
+
+Q. In JavaScript, how is the type of a variable deduced? What is the term for this type of language?
+
+A. The type of a variable is deduced from the value stored in it. This type of language is a **dynamically typed** language.
+
+Q. The ** of a variable is the part of the program where the variable is visible and usable. What is the ** for let and cost?
+
+A. Scope. The scope for let and const is **block-level**, or **block-scoped**.
+
+Q. A(n) ** is a piece of code that produces a value. It combines variables, values, and operators. Evaluating a(n) ** produces a value, which has a type.
+
+A. Expression.
+
+Q. Calculating an expression's value is called \_\_. During this, variables are replaced by their values.
+
+A. Evaluating.
+
+Q. Expressions may be included in strings delimited by a pair of backticks. Such a string is called a \_\_.
+
+A. Template literal.
+
+Q. \_\_ may happen **implicitly** during the evaluation of an expression, or **explicitly** when using the Number() and String() commands, to obtain respectively a number or a string.
+
+A. Type conversion (or type coercion).
+
+Q. If a value fails to convert into a number, what will the result be?
+
+A. NaN (not a number)
+
+Q. Regardless of the data entered, what value type does the `prompt()` command always return?
+
+A. String.
+
+Q. How can you convert a string into a number? And a number into a string?
+
+A. Convert a string into a number with Number(str). Convert a number into a string with String(num).
+
+**Conditions**
+
+Q. The _ keyword defines a _, also called a \_. The associated code block is only run if the \** is *satisfied\* (its value is true).
+
+A. `if`, conditional statement, test. Condition.
+
+Q. A \_\_ is an expression whose evaluation always produces a boolean result (true or false).
+
+A. Condition.
+
+Q. What are the comparison operators? What do they return?
+
+A. They return a boolean result.
+
+```js
+Operator	Meaning
+===	Equal
+!==	Not equal to
+<	Less than
+<=	Less than or equal to
+>	Greater than
+>=	Greater than or equal to
+```
+
+Q. An ** statement can be associated to an `if` to express an **.
+
+A. `else`, alternative.
+
+Q. What are the logical operators? What are they called and what is their syntax?
+
+A. `||`, `&&`, and `!`. They are called **logical or**, **logical and**, and **logical not**.
+
+Q. The \_\_ statement is used to kick off the execution of one code block among many, depending on the value of an expression. What is its syntax?
+
+A. Switch.
+
+```js
+switch (expression) {
+  case value1:
+    // Code to run when the expression matches value1
+    break;
+  case value2:
+    // Code to run when the expression matches value2
+    break;
+  // ...
+  default:
+  // Code to run when neither case matches
+}
+```
+
+Q. As logical expressions are evaluated from left to right, they are tested for possible \_\_ evaluation. What are the rules that determine this evaluation?
+
+A. Short-circuit.
+
+```js
+false && expr returns false.
+true || expr returns true.
+```
+
+Q. A Value or expression that can be converted to false is said to be _. A value that can be converted to true is said to be _.
+
+A. Falsy. Truthy.
+
+Q. All values are considered _truthy_ except for which _falsy_ ones?
+
+A.
+
+```js
+String: "", '' (empty string)
+Number: 0
+Boolean: false
+undefined
+null
+NaN
+```
+
+```js
+console.log(true && 'Hello'); // "Hello"
+console.log(false && 'Hello'); // false
+console.log(undefined && 'Hello'); // undefined
+console.log('' && 'Hello'); // ""
+console.log('Hello' && 'Goodbye'); // "Goodbye"
+
+console.log(true || 'Hello'); // true
+console.log(false || 'Hello'); // "Hello"
+console.log(undefined || 'Hello'); // "Hello"
+console.log('' || 'Hello'); // "Hello"
+console.log('Hello' || 'Goodbye'); // "Hello"
+```
+
+**Repeat Statements**
+
+**Functions**
