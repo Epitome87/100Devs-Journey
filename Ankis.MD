@@ -340,4 +340,83 @@ console.log('Hello' || 'Goodbye'); // "Hello"
 
 **Repeat Statements**
 
+Q. What is the JavaScript construct that allows you to repeat a series of statements?
+
+A. A loop.
+
+Q. What is each pass through a loop called?
+
+A. Iteration.
+
+Q. What is the code block associated with a loop called?
+
+A. The body of the loop.
+
+Q. What are three common loop types in JavaScript?
+
+A. for, while, do-while.
+
+Q. In a for loop, what is the variable used during initialization, condition, and the final expression called? What is it often named?
+
+A. The **counter** variable. It is often named **i**.
+
+Q. When might a while loop be better than a for loop?
+
+A. A **while** loop may be better than a **for** loop when we **don't know the number of iterations**.
+
+Q. What is the term for when we are checking if a given number is even or odd?
+
+A. **Parity**.
+
 **Functions**
+
+Q. What is a group of statements that performs a particular task called?
+
+A. A **function**.
+
+Q. What is the syntax used when writing a function? What are the different grammar associated with it?
+
+A. Function declaration. Function name. Parameters. Function body. Return value.
+
+```js
+function doCoolStuff(param1, param2) {
+  // Body
+  return 'Cool!';
+}
+```
+
+Q. What is the syntax used when calling a function? What are the different grammar associated with it?
+
+A. Calling a function. Passing arguments.
+
+```js
+doCoolStuff(arg1, arg2);
+```
+
+Q. If you try to retrieve the return value of a function that does not actually have one, what value does JavaScript return to us?
+
+A. **undefined**.
+
+Q. What are variables declared in the body of a function called? Where can they be accessed?
+
+A. **Local variables**. They are scoped to the function body.
+
+Q. When calling a function, the values we pass to it are called what? And what are these values called when we we are declaring the function?
+
+A. When calling a function, we call the values passed into it **arguments**. When declaring a function, we call them **parameters**.
+
+Q. What is a **function expression**?
+
+A. Defines a function as part of a larger expression, typically a variable assignment. They are often used to create anonymous functions.
+
+Q. What is an anonymous function? What is the older way to create one, and what is the more modern way?
+
+A. A function without a name. Typically created via a function expression or by creating a fat arrow function. Typically used in places where we won't need to call it again (as a callback) or when we are assigning a variable to store the function.
+
+Q. When creating an arrow function, what is the commonly-adapted name given to the `=>` syntax?
+
+A. **Fat arrow** syntax.
+
+**Objects**
+
+Q. What is an object in JavaScript?
