@@ -100,7 +100,9 @@ Q. What is the syntax to link to an email address, when using an anchor tag? Wha
 With subject and body:
 
 ```html
-<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you">Email Me</a>
+<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you"
+  >Email Me</a
+>
 ```
 
 Q. What is the syntax for opening a link in a new window?
@@ -142,7 +144,7 @@ A. You could "clear" a float use a simple `clear: both` and hope it's enough for
 ```css
 .group::before,
 .group::after {
-  content: '';
+  content: "";
   display: table;
 }
 .group::after {
@@ -325,17 +327,17 @@ NaN
 ```
 
 ```js
-console.log(true && 'Hello'); // "Hello"
-console.log(false && 'Hello'); // false
-console.log(undefined && 'Hello'); // undefined
-console.log('' && 'Hello'); // ""
-console.log('Hello' && 'Goodbye'); // "Goodbye"
+console.log(true && "Hello"); // "Hello"
+console.log(false && "Hello"); // false
+console.log(undefined && "Hello"); // undefined
+console.log("" && "Hello"); // ""
+console.log("Hello" && "Goodbye"); // "Goodbye"
 
-console.log(true || 'Hello'); // true
-console.log(false || 'Hello'); // "Hello"
-console.log(undefined || 'Hello'); // "Hello"
-console.log('' || 'Hello'); // "Hello"
-console.log('Hello' || 'Goodbye'); // "Hello"
+console.log(true || "Hello"); // true
+console.log(false || "Hello"); // "Hello"
+console.log(undefined || "Hello"); // "Hello"
+console.log("" || "Hello"); // "Hello"
+console.log("Hello" || "Goodbye"); // "Hello"
 ```
 
 **Repeat Statements**
@@ -381,7 +383,7 @@ A. Function declaration. Function name. Parameters. Function body. Return value.
 ```js
 function doCoolStuff(param1, param2) {
   // Body
-  return 'Cool!';
+  return "Cool!";
 }
 ```
 
@@ -420,3 +422,70 @@ A. **Fat arrow** syntax.
 **Objects**
 
 Q. What is an object in JavaScript?
+
+A. An entity having properties and methods. In JavaScript, everything is an object!
+
+Q. What are the two ways to create an object? (Terms and syntax)
+
+A. Using an **object literal** or **constructor**.
+
+```js
+const person = {
+  name: "Matthew",
+  age: 35,
+  sleep() {
+    console.log("zzz");
+  },
+};
+
+function Person(name, age) {
+  constructor() {
+    this.name = name;
+    this.age = age;
+    sleep() { console.log("zzz"); };
+  }
+}
+```
+
+Q. What do object properties consist of?
+
+A. Key/value pairs.
+
+Q. How do we access an object's properties?
+
+A. Using **dot notation**: `myObject.myProperty`
+
+Q. An object property whose value is a function is called what? What do they define / add to an object?
+
+A. A **method**. Methods define actions and add behavior to an object.
+
+Q. Explain the `this` keyword -- how is it set, what does it represent, etc.
+
+A. JavaScript automatically sets the value of `this` for us based on its context. It represents the object on which the method was called.
+
+**Arrays**
+
+Q. What is an Array in JavaScript?
+
+A. A data type that stores an ordered list of elements. It is an object with special properties like length. You access individual elements by specifying its **index** in **square brackets**
+
+Q. What value is returned when using an invalid index to access an array?
+
+A. undefined.
+
+Q. What are some ways to iterate over an array? Include methods!
+
+A. A for loop, a for-of loop, and the .forEach method.
+
+Q. What are some array methods for adding elements? For removing elements? What does each do / return?
+
+A. For adding: push (end), unshift (start). For removing: pop (end), shift (start). The methods that remove elements return the element that was removed, while the methods that add elements return the new array length.
+
+Q. What does the array slice method do? How's it work? (Syntax)
+
+A. It mutates the array (one of the few array methods that does). You specify a starting index, the number of elements to delete, and a comma-separated list of elements to add.
+
+```js
+const numbers = [1, 2, 3, 4, 5];
+numbers.slice(1, 2, 6, 7); // [1, 4, 5, 6, 7]
+```
