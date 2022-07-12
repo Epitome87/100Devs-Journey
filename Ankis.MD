@@ -100,9 +100,7 @@ Q. What is the syntax to link to an email address, when using an anchor tag? Wha
 With subject and body:
 
 ```html
-<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you"
-  >Email Me</a
->
+<a href="mailto:matthew@gmail.com?subject=Hello&body=How%20are%20you">Email Me</a>
 ```
 
 Q. What is the syntax for opening a link in a new window?
@@ -144,7 +142,7 @@ A. You could "clear" a float use a simple `clear: both` and hope it's enough for
 ```css
 .group::before,
 .group::after {
-  content: "";
+  content: '';
   display: table;
 }
 .group::after {
@@ -327,17 +325,17 @@ NaN
 ```
 
 ```js
-console.log(true && "Hello"); // "Hello"
-console.log(false && "Hello"); // false
-console.log(undefined && "Hello"); // undefined
-console.log("" && "Hello"); // ""
-console.log("Hello" && "Goodbye"); // "Goodbye"
+console.log(true && 'Hello'); // "Hello"
+console.log(false && 'Hello'); // false
+console.log(undefined && 'Hello'); // undefined
+console.log('' && 'Hello'); // ""
+console.log('Hello' && 'Goodbye'); // "Goodbye"
 
-console.log(true || "Hello"); // true
-console.log(false || "Hello"); // "Hello"
-console.log(undefined || "Hello"); // "Hello"
-console.log("" || "Hello"); // "Hello"
-console.log("Hello" || "Goodbye"); // "Hello"
+console.log(true || 'Hello'); // true
+console.log(false || 'Hello'); // "Hello"
+console.log(undefined || 'Hello'); // "Hello"
+console.log('' || 'Hello'); // "Hello"
+console.log('Hello' || 'Goodbye'); // "Hello"
 ```
 
 **Repeat Statements**
@@ -383,7 +381,7 @@ A. Function declaration. Function name. Parameters. Function body. Return value.
 ```js
 function doCoolStuff(param1, param2) {
   // Body
-  return "Cool!";
+  return 'Cool!';
 }
 ```
 
@@ -489,3 +487,149 @@ A. It mutates the array (one of the few array methods that does). You specify a 
 const numbers = [1, 2, 3, 4, 5];
 numbers.slice(1, 2, 6, 7); // [1, 4, 5, 6, 7]
 ```
+
+**Strings**
+
+Q. Although string values are `__` JavaScript types, some `__` and `__` can be applied to them just as if they were objects using the `__` notation.
+
+A. Primitive. Properties, Methods.
+
+Q. JavaScript strings are `___`: once created, a string value never changes.
+
+A. Immutable.
+
+Q. What are some string methods which _mutate_ the string?
+
+A. None; all methods will never affect the initial value and will always return a new string.
+
+Q. What string method returns the number of characters of the string?
+
+A. The `.length()` method.
+
+Q. What string methods can you use to return new converted strings to lower and upper case?
+
+A. `str.toLowerCase()` and `str.toUpperCase()`.
+
+Q. A string may be seen as a(n) `__` of characters, identified by their `__`.
+
+A. Array. Index.
+
+Q. Which Array method can be used to turn a string into an array? What String method can be used to accomplish the same goal? Which is faster, typically?
+
+A. `Array.from(str)`. `str.split("")`. Splitting a string has been noted to be drastically faster.
+
+Q. Which String method can you use to see if a value is found inside the string? What does this method return?
+
+A. `str.indexOf(value)`. This method returns the first instance of the value (if found) or -1 (if not found).
+
+Q. Which String methods can you use when searching for a value at the beginning or end of a string? What do they return?
+
+A. `str.startsWith(value)` and `str.endsWith(value)`. They return a boolean value of true or false depending on if the value was found at the start/end or not.
+
+Q. Which String method can you use to separate an array based on some particular value and have an array returned?
+
+A. `str.split(value)`.
+
+**Object Oriented Programming**
+
+Q. What is OOP? Be detailed!
+
+A. Object-Oriented Programming. It is a **programming paradigm** that uses **objects** containing both **data** and **behavior** to create programs.
+
+Q. What is an object-oriented abstraction for an idea or a concept manipulated by a program? (Hint: It offers a convenient syntax to create objects representing this concept.)
+
+A. A `class`.
+
+Q. What can a class contain?
+
+A. Only methods! This includes the constructor, which is called during object creation and is used to initialize data properties of the object.
+
+Q. Inside methods in a class, what does the `this` keyword represent?
+
+A. The object on which the method was called.
+
+Q. Objects are created from a class with the `__` operator? What does this operator cause to happen?
+
+A. `new`. This calls the class constructor to initialize the newly created object, linking this object with its class prototype.
+
+Q. JavaScript's OOP model is based on `__`. Any JavaScript object has an internal property which is a link (a reference) to another object: its `__`. `__` are used to share properties and delegate behavior between objects.
+
+A. Prototypes. Prototype. Prototypes.
+
+Q. When trying to access a property that does not exist in an object, JavaScript tries to find this property in the `__ __` of this object by first searching its prototype, then its prototype's own prototype, and so on.
+
+A. Prototype chain.
+
+Q. What are some ways to create and link JavaScript objects through prototypes? What might an example look like?
+
+A. Using the syntactic sugar provided by the `class` syntax:
+
+```js
+class MyClass {
+  constructor(param1, param2) {
+    this.property1 = param1;
+    this.property2 = param2;
+  }
+  method1(/*...*/) {
+    /*...*/
+  }
+  method2(/*...*/) {
+    /*...*/
+  }
+}
+
+const myObjectInstance = new MyClass(argument1, argument2);
+myObjectInstance.method1(/*...*/);
+```
+
+Or using `Object.create(prototypeBasedOn)`:
+
+```js
+const anObject = {
+  myProp: 'Matthew',
+};
+
+// Create anotherObject using anObject as a prototype
+const anotherObject = Object.create(anObject);
+```
+
+Q. The `__` syntax is one way to create relationships between objects. It emulates the class-based OOP model found in languages like C++, Java, and C#. However, it's just `__ __` on top of JavaScript's own prototype-based OOP model.
+
+A. Class. Syntactic sugar.
+
+Q. Most object-oriented languages use classes as `__` for the ideas or concepts manipulated by a program. A `__` is used to create objects representing a concept. It offers a convenient syntax to give both `__` and `__` to these objects.
+
+A. Abstractions. Class. Data and behavior.
+
+Q. What is the canonical syntax for creating an object using a class?
+
+A.
+
+```js
+class MyClass {
+  constructor(param1, param2, ...) {
+    this.property1 = param1;
+    this.property2 = param2;
+    // ...
+  }
+  method1(/* ... */) {
+    // ...
+  }
+  method2(/* ... */) {
+    // ...
+  }
+  // ...
+}
+
+const myObject = new MyClass(arg1, arg2, ...);
+myObject.method1(/* ... */);
+// ...
+```
+
+Q. The type of relationship between JavaScript objects in which an object entrusts part of its operation to its prototype is called what?
+
+A. Delegation.
+
+Q. In JavaScript, a class itself is a(n) `__`, not a static blueprint like class-based OOP languages.
+
+A. Object.
