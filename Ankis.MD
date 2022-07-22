@@ -633,3 +633,154 @@ A. Delegation.
 Q. In JavaScript, a class itself is a(n) `__`, not a static blueprint like class-based OOP languages.
 
 A. Object.
+
+**Functional Programming**
+
+Q. What programming paradigm is about writing programs by combining functions expressing _what_ the program should do, rather than _how_ to do it (which is the _imperative_ way).
+
+A. Functional programming.
+
+Q. The `__` of a program is the value of its `__` variables at a given time.
+
+A. State, Global.
+
+Q. What are three ways to achieve the goal of functional programming to minimize state **mutations** (changes) that make the code harder to understand?
+
+A. 1. Prefer using `const` over `let`. 2. Splitting code into functions. 3. Favoring local over global variables.
+
+Q. What is a **pure function**?? What are their benefits?
+
+A. A function that depends solely on its inputs for computing its outputs and has no **side effects**. They are easier to understand, combine together, and debug.
+
+Q. In JavaScript, what are considered **first-class citizens**? (They are treated equal to other types, can be combined together.)
+
+A. Functions!
+
+Q. A function that operators on another function (taking it as a parameter or returning it) is called what?
+
+A. Higher-Order Function.
+
+Q. How is JavaScript a **multi-paradigm** programming language?
+
+A. We can write code that is **imperative**, **Object-Oriented**, or **Functional** (and also **procedural**).
+
+Q. In this type of programming paradigm, the programmer gives orders to the computer through a series of statements that modify the program state. It focuses on describing _how_ a program operates.
+
+A. **Imperative Programming**.
+
+Q. Splitting source code into subroutines called procedures or functions makes up an approach for what type of programming? What are its benefits?
+
+A. **Procedural Programming**. It transforms some variables into local variables rather than global.
+
+Q. A **pure function** has what characteristics?
+
+A. 1. No **side effects**. 2. Its outputs depend solely on its inputs (given the same data, always product the same result).
+
+Q. What is a **side effect**? Examples?
+
+A. A change in program state or interaction with the outside world. A database access or a console.log are examples of side effects.
+
+**What's a Web Page?**
+
+(Nothing new to add as an Anki, really)
+
+**Discover the DOM**
+
+Q. The structured representation of a web page is called?
+
+A. DOM (Document Object Model)
+
+Q. Explain the DOM.
+
+A. An API allowing programmatical interactions with the web page. Defines the structure of a page and a way to interact with it.
+
+Q. Each entity in the tree representation of a web page is called what?
+
+A. Node.
+
+Q. What are two type of Nodes that form the hierarchy tree of a web page?
+
+A. Element Node, Text Node.
+
+Q. When a JavaScript program runs in the context of a browser, it can access the root of the DOM using what variable? Which element does this variable match? What are two top-level properties it has access to?
+
+A. `document`. This matches to the `html` element. From it, we can also access `body` and `head` via `document.body` and `document.head`.
+
+Q. Each object in the DOM has a property called `__`, which indicates its type. What are two possible values for this property?
+
+A. `nodeType`. Values are `document.ELEMENT_NODE` and `document.TEXT_NODE`.
+
+Q. Each element-typed object in the DOM has a property called `__`, which is an ordered collection containing all its child nodes as DOM objects. It is an array-like collection (**NodeList** object).
+
+A. `childNodes`. Example: `document.body.childNodes.length`.
+
+Q. In the following code, will `document.body.childNodes[0]` be the h1 element?
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>My web page</title>
+  </head>
+
+  <body>
+    <h1>My web page</h1>
+    <p>Hello! My name's Baptiste.</p>
+    <p>I live in the great city of <a href="https://en.wikipedia.org/wiki/Bordeaux">Bordeaux</a>.</p>
+  </body>
+</html>
+```
+
+A. Probably empty space. This is because spaces between tags and line returns in HTML code are considered text nodes by the browser. The h1, therefore, is the _second_ child node of the body.
+
+Q. Each DOM object has a property called `__` that returns its parent node as a DOM object.
+
+A. `parentNode`. For example: `document.body.childNodes[0].parentNode` would return the body.
+
+**Traverse The DOM**
+
+Q. What are some of the old methods (before querySelector) for selecting elements by type, class, and ID?
+
+A. `getElementsByTagName()`, `getElementsByClassName()`, `getElementById()`
+
+Q. Since a NodeList object in the DOM is not a real JavaScript array, what is one way to turn a NodeList into an array?
+
+A. `Array.from(document.getElementsByTagName("h1"))`.
+
+Q. Since `querySelectorAll` and `querySelector` might perform slower, when should you use other methods of selecting DOM elements?
+
+A.
+
+```
+Number of items to get	Selection criterion	Method to use
+Many	                  By tag	            getElementsByTagName()
+Many	                  By class	          getElementsByClassName()
+Many	                  Not by class or tag	querySelectorAll()
+Only one	              By ID	              getElementById()
+Only one (the first)	  Not by ID	          querySelector()
+```
+
+Q. What property on a DOM element will retrieve its HTML content?
+
+A. `innerHTML()`.
+
+Q. What property on a DOM element will return all of its text content, without any HTML markup?
+
+A. `textContent()`.
+
+Q. What method on a DOM element can be used to return the value of a given attribute? Which attributes are directly accessible as properties, and don't require this method?
+
+A. `getAttribute("attributeName")`. Attributes like href, id, and value are directly accessible as properties.
+
+Q. What method on a DOM element can be used to check for the existence of an attribute?
+
+A. `hasAttribute("attributeName")`.
+
+Q. What property on a DOM element can be used to retrieve its classes?
+
+A. `classList`.
+
+Q. What DOM traversal API method can be used on `classList` to test the presence of a class on an element?
+
+A. The `contains()` method. Example: `classList.contains(className)`.
