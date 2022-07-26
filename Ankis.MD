@@ -784,3 +784,92 @@ A. `classList`.
 Q. What DOM traversal API method can be used on `classList` to test the presence of a class on an element?
 
 A. The `contains()` method. Example: `classList.contains(className)`.
+
+## Misc JavaScript Ankis
+
+**SETS**
+
+Q. What JavaScript object lets you store unique values of any type, whether primitive values or object references? These objects are collections of values. A value may _only occur once_!
+
+A. Set
+
+```js
+const mySet = new Set();
+mySet.add(1);
+mySet.add(5);
+mySet.add(5); // Isn't added, already exists
+
+// Can take in arrays and even strings:
+const arraySet = new Set([1, 2, 3, 3, 4, 5, 5]); // 1, 2, 3, 4, 5
+```
+
+## Misc - JavaScript - Object Oriented Programming
+
+Q. What are two ways of iterating through each property or method of an object?
+
+A.
+
+```js
+const circle = { radius: 5, draw: function () {} };
+// For-In Loop:
+for (let key in obj) {
+  // ...
+}
+
+// Object.keys()
+Object.keys(obj);
+```
+
+Q. How can you check if a certain property or method exists in an object?
+
+A.
+
+```js
+const circle = { radius: 5 };
+
+if ('radius' in circle) {
+  // ...
+}
+```
+
+Q. How can you define a **getter** method on an Object? Show the older way as well as the ES6 way.
+
+A.
+
+```js
+// Older way:
+function Person() {
+  let name;
+
+  Object.defineProperty(this, "name", {
+    get: function() { return name; }
+});
+}
+
+// ES6 way:
+function Person() {
+  let _name;
+
+  get name() {
+    return this._name;
+  }
+}
+
+// Using the Class syntax:
+class Person {
+  constructor(name) {
+    this.name = name;
+  }
+
+  get name() {
+    return this._name;
+  }
+
+  set name(newName) {
+    newName = newName.trim();
+    if (newName === '') throw "The name cannot be empty";
+    this._name = newName;
+  }
+}
+```
+
